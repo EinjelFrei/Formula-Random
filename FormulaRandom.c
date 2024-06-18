@@ -282,7 +282,7 @@ int main(){
 				randDriver = randInt(activeDrivers - 2) + 1;
 			}
 			//If Stroll tries to overtake Alonso, there is a 50% chance for the overtake to be skipped
-			if(arrayLookup(sgrid, randDriver) == 18 && randInt(1) == 0){
+			if(arrayLookup(sgrid, randDriver) != 18 || randInt(1) != 0){
 				if(verstappen == 0 || randDriver != 1){
 					eventArray[0] = 0;
 					eventArray[1] = lineup[randDriver];
