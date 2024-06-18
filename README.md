@@ -3,6 +3,8 @@
 THIS APPLICATION RANDOMLY GENERATES AN (unrealistic) FORMULA ONE™ RACE! This creates a text file with the starting conditions of
 the race, and a CSV file with every single event that happens in the race.
 
+The fileless version of this app does the same thing as the "filed" one, but doesn't write any files.
+
 If you find any bugs, please report them in the Issues tab.
 
 Feel free to use this as you will.
