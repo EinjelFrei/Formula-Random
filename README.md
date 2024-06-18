@@ -7,7 +7,7 @@ The fileless version of this app does the same thing as the "filed" one, but doe
 
 If you find any bugs, please report them in the Issues tab.
 
-Feel free to use this as you will.
+Feel free to use this as you will, but credit is appreciated ;)
 
 LEGAL MUMBO JUMBO: Formula One™ is a trademark owned by Liberty Media Corporation. The creator of this application does not promote
 hate towards anyone involved in the Formula One, including but not limited to drivers, teams, stewards and organizers. Every comment
