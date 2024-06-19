@@ -5,7 +5,12 @@ the race, and a CSV file with every single event that happens in the race.
 
 The fileless version of this app does the same thing as the "filed" one, but doesn't write any files.
 
-If you find any bugs, please report them in the Issues tab.
+Features:
+- 2024 season drivers and tracks
+- Overtakes, mistakes, crashes, incidents and pitstops
+- Special rules based on F1 patterns, memes and controversies
+
+If you find any bugs or want to suggest any features, please report them in the Issues tab.
 
 Feel free to use this as you will, but credit is appreciated ;)
 
